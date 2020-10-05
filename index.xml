@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/css" href = "songlist.css" ?>
+<?xml-stylesheet type="text/css" href = "SongList.css" ?>
 	<!DOCTYPE lists SYSTEM “..\lists.dtd”>
-	<list>
+	<lists>
 		<title> My Song List </title>
 		<header> My Song List </header>
 		<entry>
